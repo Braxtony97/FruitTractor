@@ -11,6 +11,6 @@ public class GameLoadingBehaviour : MonoBehaviour
 
     private async void LoadGame()
     {
-        SceneManager.LoadScene("gameplay_scene");
+        SceneManager.LoadScene("levelSelection_scene");
     }
 }
